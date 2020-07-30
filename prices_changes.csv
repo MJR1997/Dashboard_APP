@@ -1,29 +1,29 @@
 date,product,price_change
-23-Mar-2020,baby food,-0.7
-23-Mar-2020,paracetemol,1
-23-Mar-2020,hand sanitizer,0
-23-Mar-2020,toilet roll,0.3
-30-Mar-2020,baby food,-0.9
-30-Mar-2020,paracetemol,2
-30-Mar-2020,hand sanitizer,0
-30-Mar-2020,toilet roll,0.2
-06-Apr-2020,baby food,-0.7
-06-Apr-2020,paracetemol,-2
-06-Apr-2020,hand sanitizer,0
-06-Apr-2020,toilet roll,0.4
-13-Apr-2020,baby food,0
-13-Apr-2020,paracetemol,-0.1
-13-Apr-2020,hand sanitizer,0
-13-Apr-2020,toilet roll,0.4
-20-Apr-2020,baby food,-0.3
-20-Apr-2020,paracetemol,0
-20-Apr-2020,hand sanitizer,0
-20-Apr-2020,toilet roll,1.1
-27-Apr-2020,baby food,0.3
-27-Apr-2020,paracetemol,0.8
-27-Apr-2020,hand sanitizer,0
-27-Apr-2020,toilet roll,-0.1
-04-May-2020,baby food,-0.4
-04-May-2020,paracetemol,0.3
-04-May-2020,hand sanitizer,0
-04-May-2020,toilet roll,0.7
+2020-03-23,baby food,-0.7
+2020-03-23,paracetemol,1
+2020-03-23,hand sanitizer,0
+2020-03-23,toilet roll,0.3
+2020-03-30,baby food,-0.9
+2020-03-30,paracetemol,2
+2020-03-30,hand sanitizer,0
+2020-03-30,toilet roll,0.2
+2020-04-06,baby food,-0.7
+2020-04-06,paracetemol,-2
+2020-04-06,hand sanitizer,0
+2020-04-06,toilet roll,0.4
+2020-04-13,baby food,0
+2020-04-13,paracetemol,-0.1
+2020-04-13,hand sanitizer,0
+2020-04-13,toilet roll,0.4
+2020-04-20,baby food,-0.3
+2020-04-20,paracetemol,0
+2020-04-20,hand sanitizer,0
+2020-04-20,toilet roll,1.1
+2020-04-27,baby food,0.3
+2020-04-27,paracetemol,0.8
+2020-04-27,hand sanitizer,0
+2020-04-27,toilet roll,-0.1
+2020-05-04,baby food,-0.4
+2020-05-04,paracetemol,0.3
+2020-05-04,hand sanitizer,0
+2020-05-04,toilet roll,0.7
